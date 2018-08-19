@@ -1,3 +1,13 @@
+
+git download path
+git\webProject001\eGovFrame_jqwidget001 -> right click then "import project"
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
 MAIN SPEC
 -개발자용 개발환경 32&64bit(Implementation Tool) Full Version 3.7.0
  ( http://www.egovframe.go.kr/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000002&nttId=1408&menu=3&submenu=2&leftsub=2 )
@@ -44,4 +54,11 @@ http://www.egovframe.go.kr/wiki/lib/exe/fetch.php?media=egovframework:dev3.7:set
 
 2)아래 파일 다운로드 한후 C:\Users\[사용자]\.m2\repository 안에 기존내용 삭제 후 압축히제
 http://maven.egovframe.kr/publist/HDD1/public/egovframework_v3.7/2_DevelopmentEnvironment/maven_repository_3_7.zip
+
+
+
+
+
+
+
 
