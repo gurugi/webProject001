@@ -10,6 +10,13 @@ SUB SPEC
 -Spring Core 3.8.4
 -IBATIS
 
+middle ware
+-jquery 3.3.1
+-jqueryUi 1.12.1
+-bootstrap 3.3.2
+-vue2.x  (https://vuejs.org/v2/guide/)
+
+
 server
 -tomcat 9
  ( https://tomcat.apache.org/download-90.cgi  ////  http://mirror.apache-kr.org/tomcat/tomcat-9/v9.0.10/bin/apache-tomcat-9.0.10-windows-x64.zip )
@@ -40,3 +47,6 @@ http://www.egovframe.go.kr/wiki/lib/exe/fetch.php?media=egovframework:dev3.7:set
 
 2)아래 파일 다운로드 한후 C:\Users\[사용자]\.m2\repository 안에 기존내용 삭제 후 압축히제
 http://maven.egovframe.kr/publist/HDD1/public/egovframework_v3.7/2_DevelopmentEnvironment/maven_repository_3_7.zip
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
